@@ -63,3 +63,6 @@ Tahapan analisis segmentasi pelanggan dilakukan secara sistematis sebagai beriku
 Deannisa Syafira Putri
 Data Science Undergraduate | UPN "Veteran" Jawa Timur
 📍 Surabaya, Indonesia
+
+# 🔗 Link Source Code
+https://drive.google.com/file/d/1W5aXrdDdp69VMwrIG7lSE54VmGRVDog8/view?usp=sharing
